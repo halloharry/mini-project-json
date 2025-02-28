@@ -1,4 +1,4 @@
-package com.demo.tes.backend;
+package com.demo.tes.backend.endpoint;
 
 import com.demo.tes.backend.dto.AccountDto;
 import com.demo.tes.backend.dto.RequestAccountDto;
